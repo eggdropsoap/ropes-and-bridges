@@ -28,6 +28,8 @@ public class RopesAndBridges {
     //@PreInit    // used in 1.5.2
     public void preInit(FMLPreInitializationEvent event) {
             // Stub Method
+//    	FreeHangingRopeCurve rope1 = new FreeHangingRopeCurve(28, 0, 10, 0, 10, 15, 20);
+//    	FreeHangingRopeCurve rope2 = new FreeHangingRopeCurve(30, 10, 10, 0, 10, 15, 20);
     }
    
     @EventHandler // used in 1.6.2
